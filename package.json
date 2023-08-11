@@ -13,9 +13,9 @@
   "author": "Seuzfaar",
   "license": "MIT",
   "bugs": {
-    "url": "https://discord.gg/xaAzvyPYbE"
+    "url": "https://github.com/Seuzfaar/captcha-owo-selfbot/issues"
   },
-  "homepage": "https://discord.gg/xaAzvyPYbE",
+  "homepage": "https://github.com/Seuzfaar/captcha-owo-selfbot/",
   "dependencies": {
     "2captcha": "^3.0.6",
     "adm-zip": "^0.5.10",
