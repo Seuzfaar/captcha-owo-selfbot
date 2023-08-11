@@ -23,6 +23,6 @@ pkg install termux-api
 ## Kurulum
 Lütfen cihazlarınıza [Node.js](https://nodejs.org/en/download) yüklediğinizden emin olun
 
-![Imgur](https://i.imgur.com/swvzF0k.png)
+<p align="left"><a href="https://nodejs.org/tr"><img width="80%" alt="Node.js Yükle" src="./assets/nodejs.png" /></a></p>
 
 ![Imgur](**https://imgur.com/gallery/7gsfks3**)
