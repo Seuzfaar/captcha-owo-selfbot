@@ -1,6 +1,6 @@
 import { aCheck } from "../lib/SelfbotWorker.mjs"
 export default {
-    info: "Yapılandırmayı Yeniden Yükler",
+    info: "Yapılandırmayı yeniden yükler.",
     callback: (message, ...args) => {
         try {
             aCheck(true);

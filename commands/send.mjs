@@ -1,7 +1,7 @@
 import { global } from "../index.mjs";
 
 export default {
-  info: "Girilen kişiye girilen miktarda cowoncy gönderir.",
+  info: "Etiketlenen kişiye yazılan miktarda cowoncy gönderir.",
   callback: async (message, ...args) => {
     try {
       if (message.channel.type == "DM" || message.channel.type == "GROUP_DM")
