@@ -43,9 +43,9 @@ Aşağıdaki uyarıyı görürseniz:
 <p align="left"><a href="https://discord.gg/SWhBEbMzW3"><img width="45%" alt="Kurulum başarılı" src="./assets/ekran.png" /></a></p>
 Tebrikler, selfbotumuzu başarıyla yüklediniz.
 
-"Y" yazın, enter tuşuna basın ve zamanınızın tadını çıkarın! (Yalnızca enter tuşuna basarsanız selfbot çıkacaktır)
+"Y" yazın, enter tuşuna basın ve zamanınızın tadını çıkarın!
 
-## Dikkat
+## Dikkatli Ol!
 Son zamanlarda, belirli araçların kullanımıyla ilişkili olarak hacklenen hesaplar ve kaybedilen para birimi raporları aldım. Güvenliğiniz için, her türlü gizlenmiş veya şüpheli koddan kaçınmanız tavsiye ederim. Güvenliğe öncelik verin ve harici kod veya araçlar kullanırken dikkatli olun. Hesaplarınızı ve verilerinizi korumak için bilgi sahibi olun, güvenilir kaynaklara güvenin ve iyi güvenlik uygulamalarını kullanın.
 
-![Imgur](https://i.imgur.com/dWFr5uv.png)
+<p align="left"><a href="https://discord.gg/SWhBEbMzW3"><img width="85%" alt="Dikkat Et!" src="./assets/tehlikeli-hesap.png" /></a></p>
