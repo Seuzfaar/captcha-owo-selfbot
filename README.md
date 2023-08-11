@@ -60,7 +60,7 @@ __Discord (Destek):__ [Şimdi katıl](https://discord.gg/SWhBEbMzW3)
 
 ## Lisans
 
-✨ GNU lisansı altında lisanslanmıştır.
+✨ GNU General Public License v3.0  lisansı altında lisanslanmıştır.
 
 ⛱️ Telif Hakkı © Seuzfaar'a Aittir.
 
