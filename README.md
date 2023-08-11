@@ -21,7 +21,7 @@ Bu işlem komut çalıştırılarak yapılabilir:
 pkg install termux-api
 ```
 ## Kurulum
-Lütfen cihazlarınıza [Node.js](https://nodejs.org/en/download) yüklediğinizden emin olun
+Lütfen cihazlarınıza [Node.js](https://nodejs.org/en/download) yüklediğinizden emin olun!
 
 <p align="left"><a href="https://nodejs.org/tr"><img width="45%" alt="Node.js Yükle" src="./assets/nodejs.png" /></a></p>
 
@@ -33,14 +33,19 @@ Modülü indirin ve ayıklayın veya [Git](https://git-scm.com/downloads) kullan
 git clone https://github.com/Seuzfaar/captcha-owo-selfbot.git
 ```
 
-Şimdi [Selfbotu'u indirdiğiniz](https://www.groovypost.com/howto/open-command-window-terminal-window-specific-folder-windows-mac-linux/) klasörünün içindeki terminali açın ve aşağıdaki komutu çalıştırın
-```bash
-npm install
-```
-Bu, selfbot'un düzgün çalışması için tüm gereksinimleri (kütüphaneleri) yükleyecektir
+Şimdi klasörünün içindeki Kurulum.bat dosyasını açın.
+
+Bu, selfbot'un düzgün çalışması için tüm gereksinimleri (kütüphaneleri) yükleyecektir.
 ## Kullanım
-Selfbot'u çalıştırmak için lütfen aşağıdaki komutu kullanın (selfbot klasörünün içinde)
-```bash
-node .
-```
-Aşağıdaki uyarıyı görürseniz 
+Selfbot'u çalıştırmak için Run.bat dosyasını çalıştırın.
+
+Aşağıdaki uyarıyı görürseniz:
+<p align="left"><a href="https://discord.gg/SWhBEbMzW3"><img width="45%" alt="Kurulum başarılı" src="./assets/ekran.png" /></a></p>
+Tebrikler, selfbotumuzu başarıyla yüklediniz.
+
+"Y" yazın, enter tuşuna basın ve zamanınızın tadını çıkarın! (Yalnızca enter tuşuna basarsanız selfbot çıkacaktır)
+
+## Dikkat
+Son zamanlarda, belirli araçların kullanımıyla ilişkili olarak hacklenen hesaplar ve kaybedilen para birimi raporları aldım. Güvenliğiniz için, her türlü gizlenmiş veya şüpheli koddan kaçınmanız tavsiye ederim. Güvenliğe öncelik verin ve harici kod veya araçlar kullanırken dikkatli olun. Hesaplarınızı ve verilerinizi korumak için bilgi sahibi olun, güvenilir kaynaklara güvenin ve iyi güvenlik uygulamalarını kullanın.
+
+![Imgur](https://i.imgur.com/dWFr5uv.png)
