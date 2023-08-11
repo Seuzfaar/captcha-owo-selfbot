@@ -1,0 +1,27 @@
+{
+  "name": "captcha-selfbot-seu",
+  "version": "2.1.10",
+  "description": "Belki en iyi OwO selfbot değil, ama denemeye değer (neden olmasın?)",
+  "main": "index.mjs",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seuzfaar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://discord.gg/xaAzvyPYbE"
+  },
+  "homepage": "https://discord.gg/xaAzvyPYbE",
+  "dependencies": {
+    "2captcha": "^3.0.6",
+    "adm-zip": "^0.5.10",
+    "axios": "^1.4.0",
+    "discord.js-selfbot-v13": "^2.13.6",
+    "inquirer": "^9.2.0",
+    "moment-timezone": "^0.5.43"
+  }
+}
